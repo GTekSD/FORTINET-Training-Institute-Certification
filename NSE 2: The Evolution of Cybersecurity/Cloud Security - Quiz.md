@@ -1,3 +1,18 @@
+Knowledge Check
+------------
+
+#### Drag and drop the cloud services that are types of cloud computing.
+
+**Cloud Computing ☁️**
+- Software as a Service (SaaS)
+- Platform as a Service (PaaS)
+- Infrastructure as a Service (IaaS)
+
+**Not Cloud Computing 🚫**
+- API as a Service (AaaS)
+- Integration as a Service (IaaS)
+
+
 Cloud Security - Quiz
 ------------
 
