@@ -41,19 +41,19 @@ Select one:
 - [ ] Integrates multi-cloud environments with the on-premises network
 - [ ] Allows you to rent, or use for free, software, like Google Mail
 
-#### Q6. 
+#### Q6. Which reason drove organizations to use cloud services?
 
 Select one:
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Greater security for organizational data and services.
+- [x] Cost savings by paying for only what computer services were needed.
+- [ ] Greater access and control of the business data.
+- [ ] Use of browser-based applications that on-premises servers could not.
 
-#### Q7. 
+#### Q7. Identify a potential problem that customers risk if they rely solely on vendor cloud security tools.
 
 Select one:
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] The tools can be expensive because they are based on a metered per-incident basis.
+- [ ] The tools can interfere with BYOD and other Wi-Fi devices.
+- [ ] The tools are too complicated and consume too many valuable MIS resources.
+- [x] The tools provide basic security and do not secure all facets of a multi-cloud environment.
 
